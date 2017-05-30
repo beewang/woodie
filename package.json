@@ -1,0 +1,19 @@
+{
+  "name": "woodie",
+  "version": "1.0.0",
+  "description": "City of Surrey Logging Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beewang/woodie.git"
+  },
+  "author": "Benny Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beewang/woodie/issues"
+  },
+  "homepage": "https://github.com/beewang/woodie#readme"
+}
